@@ -1,0 +1,5 @@
+{
+  "name": "MKV Wrapper Pro",
+  "description": "A sophisticated media archival tool and MakeMKV wrapper featuring automated metadata enrichment, intelligent title selection, and real-time process monitoring based on a Finite State Machine architecture.",
+  "requestFramePermissions": []
+}
